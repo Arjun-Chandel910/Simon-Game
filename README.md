@@ -1,2 +1,2 @@
 # Simon Game
-this is a java script based project.
+this is a java script project.
